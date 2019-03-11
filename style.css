@@ -1,0 +1,27 @@
+canvas{
+    background-color:black;
+    border-radius: 5%;
+    border: 10px solid blue;
+    border-bottom-left-radius: 0;
+    margin:auto;
+    padding:0;
+    display: block;
+    position: absolute;
+    top:0;
+    left:0;
+    right:0;
+    bottom: 0;
+    zoom:80%;
+}#title{
+    position: absolute;
+    
+    left: 50%;
+    transform:translate(-50%,-50%);
+    font-size:300%;
+
+}
+body{
+    background-color:lightgrey;
+    
+}
+
